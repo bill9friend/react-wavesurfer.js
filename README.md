@@ -1,7 +1,7 @@
 react-wavesurfer.js
 ===================
 
-![Test](https://github.com/amilajack/react-wavesurfer/workflows/Test/badge.svg)
+![Test](https://github.com/bill9friend/react-wavesurfer/workflows/Test/badge.svg)
 [![NPM version](https://badge.fury.io/js/react-wavesurfer.js.svg)](http://badge.fury.io/js/react-wavesurfer.js)
 [![npm](https://img.shields.io/npm/dm/react-wavesurfer.js.svg)](https://npm-stat.com/charts.html?package=react-wavesurfer.js)
 
@@ -114,7 +114,7 @@ function MyWaveform() {
 ## Local Setup
 
 ```bash
-git clone https://github.com/amilajack/react-wavesurfer.js
+git clone https://github.com/bill9friend/react-wavesurfer.js
 cd react-wavesurfer.js
 yarn
 yarn build
